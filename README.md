@@ -1,4 +1,4 @@
-# MNIST Digit Recognition Web App
+# MNIST Digit Recognition API
 
 This project is a web-based digit recognition app using a neural network trained on the MNIST dataset. Users can draw a digit (0-9) in the browser, and the backend predicts the digit using a trained model.
 
